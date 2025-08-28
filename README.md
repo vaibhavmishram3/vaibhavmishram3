@@ -35,7 +35,7 @@ Self-learned and self-motivated Web Developer with medium level of experience wo
 
 #### A little more about me
 ```javascript
-const Ridham = {
+const Vaibhav = {
   pronouns: "He" | "Him",
   age: 15 ,
   code: ["Javascript", "Python", "HTML", "CSS", "C++"],
@@ -73,6 +73,4 @@ const Ridham = {
 ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=RidhamRj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Ridham's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RidhamRj&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
